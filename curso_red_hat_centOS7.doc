@@ -1,0 +1,34 @@
+##### Curso GNU/Linux de CentOS 7 
+####  learn.edutin
+####  fecha:  17/03/2020
+#### url:  https://learn.edutin.com
+
+** Esta máquina servirá también para el curso de JGAITPro (gratuito)
+
+
+### Descarga de medios de instalación
+
+ - Descargar ISO de CentOS 7
+  (descartar versión Minimal)
+
+### Modos de Instalación CentOS 7
+
+  Pantalla de inicio:
+    Install CentOS 7
+    test this media & install
+    Troubleshooting (reparación y recuperacion de S.O.)
+
+1. Incia Anaconda
+2. Selecciona País
+3. Particionado 
+ - Selección de Software
+ - Destino
+
+ 
+
+Encontraremos los entornos base y sus respectivos complementos
+*** No me ha dado a elegir el tipo de software
+
+     - Escritorio gnome
+            . aplicaciones de internet
+
